@@ -37,15 +37,14 @@
 
 ##  Overview
 
-<code>❯ <strong>Chatbot_RAG</strong> is a custom-built AI chatbot that leverages the Retrieval-Augmented Generation (RAG) architecture to provide accurate and context-aware answers based on external documents. Unlike traditional language models that rely solely on pre-trained knowledge, this chatbot retrieves relevant information from a custom knowledge base and combines it with generative capabilities for more reliable responses.</code>
+<strong>Chatbot_RAG</strong> is a custom-built AI chatbot that leverages the Retrieval-Augmented Generation (RAG) architecture to provide accurate and context-aware answers based on external documents. Unlike traditional language models that rely solely on pre-trained knowledge, this chatbot retrieves relevant information from a custom knowledge base and combines it with generative capabilities for more reliable responses.
 
 
 ---
 
 ##  Features
 
-<code>❯ The <strong>Chatbot_RAG</strong> project integrates Retrieval-Augmented Generation (RAG) to create a more intelligent and reliable chatbot by combining the strengths of information retrieval and generative language models. It supports loading and processing documents from various formats (such as PDF and text), chunking them semantically or by fixed size, and generating embeddings using HuggingFace or OpenAI models. These embeddings are stored in efficient vector databases like FAISS or Chroma, allowing fast and accurate retrieval of relevant content. Built on the LangChain framework, the chatbot architecture is modular and flexible—making it easy to plug in different components such as retrievers, language models, or custom prompts. With support for natural language queries, dynamic knowledge updates, and a configurable pipeline, this chatbot is designed for scalability, adaptability, and real-world deployment.</code>
-
+ The <strong>Chatbot_RAG</strong> project integrates Retrieval-Augmented Generation (RAG) to create a more intelligent and reliable chatbot by combining the strengths of information retrieval and generative language models. It supports loading and processing documents from various formats (such as PDF and text), chunking them semantically or by fixed size, and generating embeddings using HuggingFace or OpenAI models. These embeddings are stored in efficient vector databases like FAISS or Chroma, allowing fast and accurate retrieval of relevant content. Built on the LangChain framework, the chatbot architecture is modular and flexible—making it easy to plug in different components such as retrievers, language models, or custom prompts. With support for natural language queries, dynamic knowledge updates, and a configurable pipeline, this chatbot is designed for scalability, adaptability, and real-world deployment.
 
 ---
 
