@@ -1,10 +1,4 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
 <p align="center"><h1 align="center">CHATBOT_RAG</h1></p>
-<p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
-</p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/nd-wuangr26/Chatbot_RAG?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/nd-wuangr26/Chatbot_RAG?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
@@ -79,15 +73,12 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/serve.py'>serve.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/main.py'>main.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/requirment.txt'>requirment.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -101,15 +92,12 @@
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/chunking/fixsize_chunks.py'>fixsize_chunks.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/chunking/semantic_chunk.py'>semantic_chunk.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/chunking/docling_chunk.py'>docling_chunk.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -120,7 +108,6 @@
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/rag/rag.py'>rag.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -131,23 +118,18 @@
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/embeding/base.py'>base.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/embeding/HuggingEmbed.py'>HuggingEmbed.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/embeding/embedings.py'>embedings.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/embeding/Sentence_Transformer.py'>Sentence_Transformer.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/embeding/doc_embeding.py'>doc_embeding.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -158,11 +140,9 @@
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/llm/gemini_llm.py'>gemini_llm.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/llm/deepseek_llm.py'>deepseek_llm.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -173,11 +153,9 @@
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/retreival/retrieval_FAISS.py'>retrieval_FAISS.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/core/retreival/test.py'>test.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -190,7 +168,6 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/nd-wuangr26/Chatbot_RAG/blob/master/font-end/app.py'>app.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
 		</blockquote>
